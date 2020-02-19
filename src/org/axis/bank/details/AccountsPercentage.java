@@ -1,4 +1,4 @@
-package org.axis.bank.details;
+//package org.axis.bank.details;
 
 import java.util.Scanner;
 
